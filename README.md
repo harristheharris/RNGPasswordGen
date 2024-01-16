@@ -33,6 +33,12 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+Criteria questions
+How many charcters do you want the password (needs to be greater than or equal to 8 and less than or equal to 128)?
+Do you want your password to include lowercase, uppercase, numeric and/or special characters? (I would like to have each one as their own option.)
+The inputs will be validate and we will insure at least one of charchter types is selected
+A password generates and is displayed to the page or an alert
+
 
 ## Mock-Up
 
